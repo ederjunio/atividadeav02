@@ -53,7 +53,9 @@ function MyDrawer (){
                 resizeMode="contain"
                 style={{width:20, height:20, tintColor: tintColor}}
             ></Image>
+
           )}}          
+          
       ></Drawer.Screen>
       
       <Drawer.Screen 
